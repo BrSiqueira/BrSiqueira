@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hello world!! Eu sou o Bruno.
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brsiqueira&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brsiqueira&layout=compact&langs_count=16&theme=vue-dark&hide_border=true"/>
+<div>
 <!--
 **BrSiqueira/BrSiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
