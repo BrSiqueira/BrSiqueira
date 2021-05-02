@@ -7,7 +7,7 @@
     </div>
 </div>    
  
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" height="30" width="40" src="https://www.bizone.co.th/application/files/1715/6345/2458/bism-normalizer.svg">
