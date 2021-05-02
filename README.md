@@ -13,10 +13,7 @@
   <img align="center" height="30" width="40" src="https://www.bizone.co.th/application/files/1715/6345/2458/bism-normalizer.svg">
   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">   
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
+    <img align="right" width="200" alt="Bear" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/095027112428727.601419661d56d.gif">
 </div>
 
 ##
-<div>
-    <div align="center" style=" height: 50px; background-image:url('https://i.pinimg.com/originals/e8/34/ee/e834ee181e99637c0d5ad93d6e29bbc1.jpg'); background-position: center;"> 
-    </div>   
-</div>
